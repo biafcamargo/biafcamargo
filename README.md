@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Beatriz or BiaF</h1>
+<h1 align="center">Hi 👋, I'm Ana Beatriz or BiaF</h1>
 <h3 align="center">I am a front-end student from Brasil</h3>
 
 - 🔭 I’m currently working on **front-end study**
